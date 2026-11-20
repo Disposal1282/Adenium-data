@@ -1,0 +1,178 @@
+12_24.jpg|12|24|-4999|32767|
+12_24_1.jpg|12|24|-32767|-5000|
+12_25.jpg|12|25|-32767|32767|Seed of Destruction
+13_24.jpg|13|24|-32767|32767|Seed of Infinity
+13_25.jpg|13|25|-32767|32767|
+14_22.jpg|14|22|-32767|32767|
+14_23.jpg|14|23|-32767|32767|Seed of Annihilation
+14_24.jpg|14|24|-4999|32767|
+14_24_1.jpg|14|24|-32767|-5000|
+14_25.jpg|14|25|-32767|32767|Keucereus
+15_25.jpg|15|25|-32767|32767|Gludio Airship
+16_10.jpg|16|10|-32767|32767|
+16_11.jpg|16|11|-32767|32767|
+16_12.jpg|16|12|-32767|32767|
+16_13.jpg|16|13|-32767|32767|Delusion Chamber
+16_19.jpg|16|19|-32767|32767|Kamael
+16_20.jpg|16|20|-5000|32767|Hills of Gold
+16_20_1.jpg|16|20|-5001|-32767|
+16_21.jpg|16|21|-32767|32767|
+16_24.jpg|16|24|-32767|32767|
+16_25.jpg|16|25|-32767|32767|
+17_10.jpg|17|10|-32767|32767|
+17_11.jpg|17|11|-32767|32767|
+17_15.jpg|17|15|-4999|32767|
+17_15_1.jpg|17|15|-32767|-5000|
+17_16.jpg|17|16|-32767|32767|
+17_17.jpg|17|17|-5299|32767|
+17_17_1.jpg|17|17|-32767|-5300|
+17_19.jpg|17|19|-5000|32767|
+17_19_1.jpg|17|19|-32767|-5001|
+17_20.jpg|17|20|-5000|32767|Windy Hill
+17_20_1.jpg|17|20|-32767|-5001|
+17_21.jpg|17|21|-5000|32767|Fellmere Lake / Orc Barracks
+17_21_1.jpg|17|21|-32767|-5001|
+17_22.jpg|17|22|-32767|32767|Gludin
+17_23.jpg|17|23|-32767|32767|
+17_25.jpg|17|25|-32767|32767|Human
+18_10.jpg|18|10|-32767|32767|Heretic Catacomb (Mobs 20-30)
+18_11.jpg|18|11|-32767|32767|
+18_14.jpg|18|14|-32767|32767|Orc
+18_15.jpg|18|15|-32767|32767|
+18_16.jpg|18|16|-32767|32767|
+18_19.jpg|18|19|-32767|32767|
+18_20.jpg|18|20|-4499|32767|Cloud Mountain Fortress
+18_20_1.jpg|18|20|-10000|-4500|Devotion Necropolis (Mobs 60-70)
+18_21.jpg|18|21|-32767|32767|Ruins of Agony
+18_22.jpg|18|22|-32767|32767|Abandoned Camp / Shanty Fortress
+18_23.jpg|18|23|-32767|32767|Forgotten Temple
+18_24.jpg|18|24|-4799|32767|
+18_24_1.jpg|18|24|-10000|-4800|Secrifice Necropolis (Mobs 20-30)
+18_25.jpg|18|24|-32767|32767|
+19_10.jpg|19|10|-32767|32767|Apostate Catacomb (Mobs 50-60)
+19_11.jpg|19|11|-32767|32767|
+19_13.jpg|19|13|-32767|32767|
+19_14.jpg|19|14|-32767|32767|
+19_15.jpg|19|15|-32767|32767|
+19_16.jpg|19|16|-5299|32767|
+19_16_1.jpg|19|16|-32767|-5300|
+19_17.jpg|19|17|-32767|32767|
+19_18.jpg|19|18|-4599|32767|
+19_18_1.jpg|19|18|-10000|-4600|Dark Omens (Mobs 70-80)
+19_19.jpg|19|19|-32767|32767|
+19_20.jpg|19|20|-4799|32767|
+19_20_1.jpg|19|20|-10000|-4800|Patriot's Necropolis (Mobs 50-60)
+19_21.jpg|19|21|-32767|32767|Gludio
+19_22.jpg|19|22|-32767|32767|Ruins of Despair / Windawood Manor
+19_23.jpg|19|23|-4999|32767|Wasteland / The Ant Nest
+19_23_1.jpg|19|23|-32767|-5000|
+19_24.jpg|19|24|-32767|32767|Southern Fortress / Steel Citadel (Hellbound)
+19_25.jpg|19|25|-32767|32767|Hellbound Entrance
+19_26.jpg|19|26|-32767|32767|
+20_10.jpg|20|10|-32767|32767|Forbidden Path Catacomb (Mobs 70-80)
+20_13.jpg|20|13|-32767|32767|
+20_14.jpg|20|14|-32767|32767|Valley of the Lords
+20_15.jpg|20|15|-32767|32767|
+20_16.jpg|20|16|-1000|-400|
+20_16_1.jpg|20|16|-1001|-32767|
+20_16_2.jpg|20|16|-399|32767|
+20_17.jpg|20|17|-32767|32767|Primeval
+20_18.jpg|20|18|-32767|32767|Dark Elf 
+20_19.jpg|20|19|-32767|32767|
+20_20.jpg|20|20|-32767|32767|Dragonspine Fortress
+20_21.jpg|20|21|32767|-1999|
+20_21_1.jpg|20|21|-2000|32767|
+20_22.jpg|20|22|-32767|32767|Dion / Floran Fortress
+20_23.jpg|20|23|-32767|32767|Plains of Dion / Hive Fortress
+20_24.jpg|20|24|-5299|32767|
+20_24_1.jpg|20|24|-32767|-5300|
+20_25.jpg|20|25|-32767|32767|Battered Lands (Hellbound)
+21_14.jpg|21|14|-32767|32767|Crypts of Disgrace
+21_15.jpg|21|15|-32767|32767|Beast Farm
+21_16.jpg|21|16|-32767|32767|Rune
+21_17.jpg|21|17|-32767|32767|
+21_18.jpg|21|18|-32767|32767|Sea of Spores
+21_19.jpg|21|19|-32767|32767|Elf
+21_20.jpg|21|20|-32767|32767|
+21_21.jpg|21|21|-4999|32767|Partisan's Hideaway
+21_21_1.jpg|21|21|-10000|-5000|Pilgrims Necropolis (Mobs 30-40)
+21_22.jpg|21|22|-4999|32767|Tanor Canyon / Cruma Tower / Tanor Fortress
+21_22_1.jpg|21|22|-10000|-5000|
+21_23.jpg|21|23|-4599|32767|Bee Hive / Giran Harbor
+21_23_1.jpg|21|23|-10000|-4600|Branded Catacomb (Mobs 40-50)
+21_24.jpg|21|24|-32767|32767|Devil's Isle
+21_25.jpg|21|25|-5299|32767|
+21_25_1.jpg|21|25|-32767|-5300|
+22_13.jpg|22|13|-32767|32767|Schuttgart
+22_14.jpg|22|14|-32767|32767|Pavel Ruins / Den of Evil
+22_15.jpg|22|15|-32767|32767|Valley of Saints / Monastic Fortress
+22_16.jpg|22|16|-4499|32767|Stakato Nest / Swamp Fortress
+22_16_1.jpg|22|16|-10000|-4500|
+22_17.jpg|22|17|-32767|32767|Outlaw Forest
+22_18.jpg|22|18|-32767|32767|Ivory Tower / Ivory Fortress
+22_19.jpg|22|19|-32767|32767|Oren
+22_20.jpg|22|20|-4799|32767|Timak Outpost / Antharas Fortress
+22_20_1.jpg|22|20|-10000|-4800|
+22_21.jpg|22|21|-32767|32767|Death Pass / Dragon Valley
+22_22.jpg|22|22|-32767|32767|Giran
+22_23.jpg|22|23|-32767|32767|Field of Silence / Aaru Fortress
+22_24.jpg|22|24|-5099|32767|Field of Whispers
+22_24_1.jpg|22|24|-32767|-5100|Saint's Necropolis (Mobs 70-80)
+22_25.jpg|22|25|-4999|32767|
+22_25_1.jpg|22|25|-32767|-5000|Garden of Eva
+23_11.jpg|23|11|-32767|32767|
+23_12.jpg|23|12|-32767|32767|Dwarf
+23_13.jpg|23|13|-32767|32767|Plunderous Plains / Brigand Stronghold / Archaic Fortress
+23_14.jpg|23|14|-32767|32767|Frost Lake / Ice Merchant Cabin
+23_15.jpg|23|15|1801|32767|Monastery of Silence
+23_15_1.jpg|23|15|-2865|-2219|Monastery of Silence Fl.1
+23_15_2.jpg|23|15|-2220|-30|Monastery of Silence Fl.2
+23_15_3.jpg|23|15|-29|1800|Monastery of Silence Fl.3
+23_16.jpg|23|16|-32767|32767|Varka Silenos Outpost / Demon Fortress
+23_17.jpg|23|17|-32767|32767|Ancient Battleground / Western Fortress
+23_18.jpg|23|18|-32767|32767|Tower of Insolence
+23_18_1.jpg|23|18|-5300|-3800|
+23_18_2.jpg|23|18|-3799|-2300|
+23_18_3.jpg|23|18|-2299|-800|
+23_18_4.jpg|23|18|-799|800|
+23_18_5.jpg|23|18|801|1800|
+23_18_6.jpg|18|11|1801|2800|
+23_18_11.jpg|18|11|2801|133800|
+23_19.jpg|23|19|-32767|32767|N/S Enchanted Valley
+23_20.jpg|23|20|-5999|32767|Hunters / Hunter's Fortress
+23_20_1.jpg|23|20|-10000|-6000|
+23_21.jpg|23|21|-32767|32767|Hardin's Private Academy / Valley Fortress
+23_22.jpg|23|22|-4499|32767|
+23_22_1.jpg|23|22|-10000|-4500|Matyrdom Necropolis (Mobs 60-70)
+23_23.jpg|23|23|-5399|32767|Alligator Island
+23_23_1.jpg|23|23|-32767|-5400|Worship Necropolis (Mobs 40-50)
+23_24.jpg|23|24|-32767|32767|Heine / White Sands Fortress
+23_25.jpg|23|25|-32767|32767|
+24_11.jpg|24|11|-32767|32767|
+24_12.jpg|24|12|-32767|32767|
+24_14.jpg|24|14|-32767|32767|Hot Springs
+24_15.jpg|24|15|-32767|32767|Ketra Orc Outpost / Borderland Fortress
+24_16.jpg|24|16|-32767|32767|Goddard
+24_17.jpg|24|17|-32767|32767|Blazing Swamp
+24_18.jpg|24|18|-32767|32767|Aden
+24_19.jpg|24|19|-32767|32767|Coliseum / Narsell Fortress
+24_20.jpg|24|20|-4999|32767|The Forrest of Mirrors
+24_20_1.jpg|24|20|-10000|-5000|Witch Catacomb (Mobs 60-70)
+24_21.jpg|24|21|-32767|32767|Antharas Lair
+24_22.jpg|24|22|-32767|32767|Chromatic Highlands
+24_22_1.jpg|24|22|-32767|-5200|
+24_23.jpg|24|23|-32767|32767|Parnasus / Isle of Prayer
+25_11.jpg|25|11|-32767|32767|
+25_12.jpg|25|12|-32767|32767|
+25_14.jpg|25|14|-32767|32767|Forge of the Gods
+25_14_1.jpg|25|14|-10000|-9000|
+25_14_2.jpg|25|14|-9000|-8000|
+25_14_3.jpg|25|14|-8000|-7000|
+25_15.jpg|25|15|-32767|32767|Imperial Tomb / Pilgrims Temple
+25_16.jpg|25|16|-32767|32767|Wall of Argos
+25_17.jpg|25|17|-3801|32767|Fields of Massacre
+25_17_1.jpg|25|17|-32767|-3800|Disciple's Necropolis (Mobs 70-80)
+25_18.jpg|25|18|-32767|32767|Cemetery / The Forbidden Gateway
+25_19.jpg|25|19|-32767|32767|Forsaken Plains / Silent Valley / Bayou Fortress
+25_20.jpg|25|20|-32767|32767|Anghel Waterfall
+26_14.jpg|26|14|-32767|32767
